@@ -1,4 +1,4 @@
-<h2 align ="center">Thanks for visiting <img src="https://media.giphy.com/media/jUu0c1dxodOrgonEGK/giphy.gif" height="30"/>, I'm Riki Tanaka! <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"/></h2>
+<h2 align ="center"><img src="https://media.giphy.com/media/jUu0c1dxodOrgonEGK/giphy.gif" width="50"/>Thanks for visiting, I'm Riki Tanaka! <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"/></h2>
 
 <hr>
 
