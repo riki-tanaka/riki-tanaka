@@ -6,7 +6,7 @@
 
 <p align="center">
     <span>&nbsp;</span>
-    <a href="https://www.linkedin.com/in/riki-tanaka-312b43214/"><img src="https://img.shields.io/badge/-Riki-blue?style=curved-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/riki-tanaka-312b43214/"></a>
+    <a href="https://www.linkedin.com/in/riki-tanaka"><img src="https://img.shields.io/badge/-Riki-blue?style=curved-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/riki-tanaka"></a>
     <span>&nbsp;</span>
     <a href="https://github.com/riki-tanaka/riki-tanaka">
         <img src="https://pageview.vercel.app/?github_user=riki-tanaka" alt="GitHub Profile Views" />
