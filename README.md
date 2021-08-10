@@ -1,10 +1,8 @@
-<h2 align ="center"><img src="https://media.giphy.com/media/jUu0c1dxodOrgonEGK/giphy.gif" width="50"/>Thanks for visiting, I'm Riki Tanaka! <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"/></h2>
-
-<hr>
+<h2 align ="center"><img src="https://media.giphy.com/media/26BRw4SpwIZaQTOQo/giphy.gif" width="50"/>Thanks for visiting, I'm Riki Tanaka! <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"/></h2>
 
 <!-- Badges -->
 
-<img src="https://media.giphy.com/media/26BRw4SpwIZaQTOQo/giphy.gif" width="60"/> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> <img src="https://media.giphy.com/media/ns4A9POxtA3GU/giphy.gif" width="60"/></em>
+<p align="center"><em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b></em></p>
 
 <p align="center">
     <span>&nbsp;</span>
