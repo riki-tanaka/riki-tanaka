@@ -5,8 +5,10 @@
 <p align="center"><em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b></em></p>
 
 <p align="center">
+    <!--
     <span>&nbsp;</span>
     <a href="https://www.linkedin.com/in/riki-tanaka"><img src="https://img.shields.io/badge/-Riki-blue?style=curved-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/riki-tanaka"></a>
+-->
     <span>&nbsp;</span>
     <a href="https://github.com/riki-tanaka/riki-tanaka">
         <img src="https://pageview.vercel.app/?github_user=riki-tanaka" alt="GitHub Profile Views" />
