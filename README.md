@@ -1,4 +1,4 @@
-<h2 align ="center"><img src="https://media.giphy.com/media/26BRw4SpwIZaQTOQo/giphy.gif" width="50"/>Thanks for visiting, I'm Riki Tanaka! <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"/></h2>
+<h2 align ="center"><img src="https://media.giphy.com/media/26BRw4SpwIZaQTOQo/giphy.gif" width="50"/>Thanks for visiting, I'm Riki! <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"/></h2>
 
 <!-- Badges -->
 
